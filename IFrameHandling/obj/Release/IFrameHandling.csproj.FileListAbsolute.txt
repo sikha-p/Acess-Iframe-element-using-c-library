@@ -1,0 +1,15 @@
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\obj\Release\IFrameHandling.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\IFrameHandling.dll
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\IFrameHandling.pdb
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\nunit.framework.dll
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\OpenQA.Selenium.Winium.dll
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\WebDriver.dll
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\nunit.framework.xml
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\OpenQA.Selenium.Winium.pdb
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\bin\Release\WebDriver.xml
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\obj\Release\IFrameHandling.csproj.CopyComplete
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\obj\Release\IFrameHandling.dll
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\obj\Release\IFrameHandling.pdb
+C:\Users\Sikha.P\source\repos\IFrameHandling\IFrameHandling\obj\Release\IFrameHandling.csprojAssemblyReference.cache
